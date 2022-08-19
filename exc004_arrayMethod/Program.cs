@@ -19,7 +19,7 @@ string IndexOf(int[] collection, int find){
         if (collection[i] == find) {
             position = i;
             check = true;
-            break;
+            break; 
         }
     }
 
